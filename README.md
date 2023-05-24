@@ -1,5 +1,6 @@
 # OxRSE Continuous Integration course
-[![python version test](https://github.com/github/docs/actions/workflows/python-versions.yml/badge.svg)(https://github.com/github/docs/actions/workflows/python-versions.yml/badge.svg)]
+[![Coverage](https://github.com/hollypacey/AICourse_ci_course_start/actions/workflows/cover.yml/badge.svg)](https://github.com/hollypacey/AICourse_ci_course_start/actions/workflows/cover.yml)
+[![python version test](https://github.com/github/docs/actions/workflows/python-versions.yml/badge.svg)](https://github.com/github/docs/actions/workflows/python-versions.yml/badge.svg)
 
 This project contains a small Python project. We are going to use free cloud services to automate:
 
