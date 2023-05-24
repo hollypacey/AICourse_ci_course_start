@@ -1,5 +1,5 @@
 # OxRSE Continuous Integration course
-![example workflow](https://github.com/github/docs/actions/workflows/os_versions.yml/badge.svg)
+[![python version test](https://github.com/github/docs/actions/workflows/python-versions.yml/badge.svg)(https://github.com/github/docs/actions/workflows/python-versions.yml/badge.svg)]
 
 This project contains a small Python project. We are going to use free cloud services to automate:
 
